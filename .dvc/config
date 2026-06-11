@@ -1,0 +1,6 @@
+[core]
+    remote = nas_storage
+['remote "nas_storage"']
+    url = ssh://ai@192.168.1.178/ai_training_dataset/cat_dog_dvc
+    ask_password = false
+    port = 2222
