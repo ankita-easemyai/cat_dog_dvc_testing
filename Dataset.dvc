@@ -11,4 +11,3 @@ outs:
   nfiles: 4800
   hash: md5
   path: Dataset
-frozen: true
